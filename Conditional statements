@@ -38,3 +38,15 @@ else:
     print("Number is zero")
     
 ######    
+
+# Check if a number is positive and even
+num = 4
+if num > 0:
+    if num % 2 == 0:
+        print("Number is positive and even")
+    else:
+        print("Number is positive and odd")
+else:
+    print("Number is not positive")
+    
+#########    
