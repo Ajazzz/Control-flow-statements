@@ -11,3 +11,10 @@ else:
     print("x is negative")
 
 ########
+
+# Check if a number is positive
+num = 5
+if num > 0:
+    print("Number is positive")
+    
+########    
