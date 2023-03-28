@@ -12,3 +12,87 @@ while x < 10:
     x += 1
 
 ########
+
+string = "Hello, World!"
+for char in string:
+    print(char)
+
+########
+
+string = "Hello, World!"
+for i in range(len(string)):
+    print(string[i])
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
