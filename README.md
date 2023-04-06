@@ -18,6 +18,8 @@ Python has two main loop statements: ``` "for" ``` and ``` "while" ```.
 for i in range(1, 11):
     print(i)
 ```
+
+```#OUTPUT```
 ### 3). Break and Continue statements:
 "break" and "continue" statements are used inside loops to alter their behavior. 
 "break" statement is used to exit a loop prematurely, while "continue" statement is used to skip to the next iteration of the loop.
