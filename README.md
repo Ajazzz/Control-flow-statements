@@ -15,6 +15,7 @@ Loop statements are used to repeatedly execute a block of code until a certain c
 Python has two main loop statements: ``` "for" ``` and ``` "while" ```.
 
 ```ruby
+# For loop
 for i in range(1, 11):
     print(i, end = ' ')
 ```
@@ -22,6 +23,7 @@ for i in range(1, 11):
 ```#OUTPUT  1 2 3 4 5 6 7 8 9 10  ```
 
 ```ruby
+# while loop
 x=0
 while x<10:
     print(x)
