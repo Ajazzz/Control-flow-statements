@@ -20,6 +20,13 @@ for i in range(1, 11):
 ```
 
 ```#OUTPUT  1 2 3 4 5 6 7 8 9 10  ```
+
+```ruby
+x=0:
+while x<10:
+print(x)
+x+=1
+```
 ### 3). Break and Continue statements:
 "break" and "continue" statements are used inside loops to alter their behavior. 
 "break" statement is used to exit a loop prematurely, while "continue" statement is used to skip to the next iteration of the loop.
