@@ -30,7 +30,8 @@ while x<10:
     x+=1
 ```
 
-```OUTPUT
+```
+# OUTPUT
 0
 1
 2
