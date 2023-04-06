@@ -20,7 +20,7 @@ for i in range(1, 11):
     print(i, end = ' ')
 ```
 
-```#OUTPUT  1 2 3 4 5 6 7 8 9 10  ```
+```# OUTPUT  1 2 3 4 5 6 7 8 9 10  ```
 
 ```ruby
 # while loop
@@ -32,9 +32,7 @@ while x<10:
 
 
 ```
-#OUTPUT
-
-
+# OUTPUT
 0
 1
 2
