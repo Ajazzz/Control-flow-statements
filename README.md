@@ -46,8 +46,8 @@ while x<10:
 ```
 
 ### 3). Break and Continue statements:
-"break" and "continue" statements are used inside loops to alter their behavior. 
-"break" statement is used to exit a loop prematurely, while "continue" statement is used to skip to the next iteration of the loop.
+```"break"``` and ```"continue"``` statements are used inside loops to alter their behavior. 
+```"break"``` statement is used to exit a loop prematurely, while "continue" statement is used to skip to the next iteration of the loop.
 
 
 These control flow statements are fundamental building blocks for creating complex programs in Python.
