@@ -29,6 +29,20 @@ while x<10:
     print(x)
     x+=1
 ```
+
+```OUTPUT
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
+
 ### 3). Break and Continue statements:
 "break" and "continue" statements are used inside loops to alter their behavior. 
 "break" statement is used to exit a loop prematurely, while "continue" statement is used to skip to the next iteration of the loop.
