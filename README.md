@@ -12,7 +12,7 @@ The most commonly used conditional statement in Python is the "if" statement.
 
 ### 2). Loop statements:
 Loop statements are used to repeatedly execute a block of code until a certain condition is met. 
-Python has two main loop statements: ``` "for" ``` and "while".
+Python has two main loop statements: ``` "for" ``` and ``` "while" ```.
 
 for i in range(1, 11):
     print(i)
