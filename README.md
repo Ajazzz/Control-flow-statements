@@ -15,7 +15,7 @@ Loop statements are used to repeatedly execute a block of code until a certain c
 Python has two main loop statements: "for" and "while".
 
 
-3). Break and Continue statements:
+### 3). Break and Continue statements:
 "break" and "continue" statements are used inside loops to alter their behavior. 
 "break" statement is used to exit a loop prematurely, while "continue" statement is used to skip to the next iteration of the loop.
 
