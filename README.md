@@ -14,9 +14,10 @@ The most commonly used conditional statement in Python is the "if" statement.
 Loop statements are used to repeatedly execute a block of code until a certain condition is met. 
 Python has two main loop statements: ``` "for" ``` and ``` "while" ```.
 
+``ruby
 for i in range(1, 11):
     print(i)
-
+``
 ### 3). Break and Continue statements:
 "break" and "continue" statements are used inside loops to alter their behavior. 
 "break" statement is used to exit a loop prematurely, while "continue" statement is used to skip to the next iteration of the loop.
