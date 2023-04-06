@@ -59,6 +59,13 @@ while x<10:
     else:
         continue
 ```
-
+```
+#OUTPUT
+0
+1
+2
+3
+4
+```
 
 These control flow statements are fundamental building blocks for creating complex programs in Python.
