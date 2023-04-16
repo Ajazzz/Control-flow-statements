@@ -8,7 +8,7 @@ The basic syntax of a for loop is as follows:'''
 for item in sequence:
     # do something with item
     
-   
+'''   
 Here, "item" is a variable that takes on the value of each item in the sequence, one at a time. 
 The code inside the loop block is executed once for each item in the sequence.
 
