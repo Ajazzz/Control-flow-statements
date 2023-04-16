@@ -4,7 +4,6 @@ There are two main types of loop statements in Python: "for" and "while".
 The "for" loop is used to iterate over a sequence (e.g. a list, tuple, or string) or a range of numbers. 
 
 The basic syntax of a for loop is as follows:'''
-######
 
 for item in sequence:
     # do something with item
