@@ -11,7 +11,6 @@ for item in sequence:
 '''   
 Here, "item" is a variable that takes on the value of each item in the sequence, one at a time. 
 The code inside the loop block is executed once for each item in the sequence.
-
 For example, the following code prints the numbers from 0 to 9:'''    
 
 ########
