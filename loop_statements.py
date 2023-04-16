@@ -13,7 +13,6 @@ Here, "item" is a variable that takes on the value of each item in the sequence,
 The code inside the loop block is executed once for each item in the sequence.
 For example, the following code prints the numbers from 0 to 9:'''    
 
-########
 
 for i in range(10):
     print(i)
