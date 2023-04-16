@@ -1,9 +1,9 @@
-Loop statements in Python are used to repeat a set of instructions a certain number of times or until a certain condition is met. 
+'''Loop statements in Python are used to repeat a set of instructions a certain number of times or until a certain condition is met. 
 There are two main types of loop statements in Python: "for" and "while".
 
 The "for" loop is used to iterate over a sequence (e.g. a list, tuple, or string) or a range of numbers. 
 
-The basic syntax of a for loop is as follows:
+The basic syntax of a for loop is as follows:'''
 ######
 
 for item in sequence:
