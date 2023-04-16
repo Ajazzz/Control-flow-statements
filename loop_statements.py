@@ -19,7 +19,7 @@ for i in range(10):
     
 '''
 The "while" loop is used to repeat a set of instructions while a certain condition is true. 
-The basic syntax of a while loop is as follows:
+The basic syntax of a while loop is as follows:'''
 
 #####
 
