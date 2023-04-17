@@ -7,7 +7,7 @@ string = "Hello, World!"
 for i, char in enumerate(string):
     print(i, char)
     
-Output:
+# Output:
 
 0 H
 1 e
