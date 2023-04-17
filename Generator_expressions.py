@@ -1,6 +1,6 @@
 ''' Generator Expressions:
 Generator expressions are similar to list comprehensions, but they return an iterator instead of a list. 
-This can be more memory-efficient when dealing with large amounts of data. For example, 
+This can be more memory-efficient when dealing with large amounts of data.''' For example, 
 
 The following code creates a generator that generates squares of the numbers from 1 to 10:
 
