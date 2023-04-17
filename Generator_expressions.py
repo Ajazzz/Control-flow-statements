@@ -1,4 +1,4 @@
-Generator Expressions:
+''' Generator Expressions:
 Generator expressions are similar to list comprehensions, but they return an iterator instead of a list. 
 This can be more memory-efficient when dealing with large amounts of data. For example, 
 
