@@ -1,7 +1,7 @@
 '''Enumerate:
 The enumerate function is a built-in function that allows you to iterate over a sequence (e.g. a list or a string) and keep track of the index of the current item.''' 
 
-For example:
+# For example:
 
 string = "Hello, World!"
 for i, char in enumerate(string):
