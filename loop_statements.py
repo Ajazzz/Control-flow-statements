@@ -31,7 +31,7 @@ while condition:
 '''Here, "condition" is a boolean expression that is checked at the beginning of each iteration. 
 If the condition is true, the code inside the loop block is executed; otherwise, the loop terminates. '''
 
-For example, the following code prints the numbers from 0 to 9 using a while loop:
+''' For example, the following code prints the numbers from 0 to 9 using a while loop:
 
 ########
 
