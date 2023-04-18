@@ -43,7 +43,7 @@ while i < 10:
 
 ''' In this code, the variable "i" is initially set to 0. The condition "i < 10" is checked at the beginning of each iteration. 
 As long as the condition is true, the code inside the loop block is executed, which prints the current value of "i" and increments it by 1. 
-The loop terminates when "i" becomes 10, because the condition "i < 10" is no longer true.'''
+The loop terminates when "i" becomes 10, because the condition "i < 10" is no longer true. '''
 
 
 
