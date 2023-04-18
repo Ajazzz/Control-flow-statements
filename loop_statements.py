@@ -48,8 +48,8 @@ The loop terminates when "i" becomes 10, because the condition "i < 10" is no lo
 
 
 
-Examples:
-########
+# Examples:
+
 
 # for loop
 for i in range(10):
