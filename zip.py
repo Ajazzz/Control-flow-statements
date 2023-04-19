@@ -10,7 +10,6 @@ for name, age in zip(names, ages):
     print(name, age)
     
 # Output:
-
 Alice 25
 Bob 30
 Charlie 35
